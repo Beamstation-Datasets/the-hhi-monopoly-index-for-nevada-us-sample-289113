@@ -1,0 +1,12 @@
+{
+  "export_job_id": "47a7db50-bdf3-429a-8df1-1448ace28b5e",
+  "id_short": 289113,
+  "published_at": "2026-04-12T07:08:47Z",
+  "repo_name": "the-hhi-monopoly-index-for-nevada-us-sample-289113",
+  "sample_asset_name": "beamstation_289113_restaurants-us-nv_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/289113/beamstation_289113_restaurants-us-nv_SAMPLE_DIST.csv",
+  "sample_records": 17,
+  "sample_sha256": "04e0a7de7585766f4167a1309bf95e68823219bdc7ef1caf9eb31a1928a80ad6",
+  "sample_size_bytes": 83602,
+  "total_records": 179
+}
