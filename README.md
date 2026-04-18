@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Nevada, US
 
-> Free BeamStation sample export with 17 rows and masked direct-contact fields.
+> Free BeamStation sample export with 13 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `289113` |
 | Location | Nevada |
 | Category | Restaurants |
-| Full dataset size | 179 records |
-| Free sample size | 17 records (9.5%) |
-| Last export | 2026-04-08T01:09:41.119211+00:00 |
+| Full dataset size | 137 records |
+| Free sample size | 13 records (9.49%) |
+| Last export | 2026-04-15T06:50:01.959190+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-nevada-us-sample-289113/releases/download/sample-latest/beamstation_289113_restaurants-us-nv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
